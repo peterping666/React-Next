@@ -15,7 +15,7 @@
     "@zeit/next-sass": "^1.0.1",
     "axios": "^0.19.0",
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "imagemin-mozjpeg": "^8.0.0",
     "imagemin-optipng": "^7.0.0",
     "imagemin-svgo": "^7.0.0",
